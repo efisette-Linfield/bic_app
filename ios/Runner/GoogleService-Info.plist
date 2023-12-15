@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBKV1TdPTSQW4FDEz7ewh6BCQrD7gIGccU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>339882831473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BICApp.bicApp</string>
+	<key>PROJECT_ID</key>
+	<string>body-improvement-club</string>
+	<key>STORAGE_BUCKET</key>
+	<string>body-improvement-club.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:339882831473:ios:1beb86402d24cb29deb5d0</string>
+</dict>
+</plist>

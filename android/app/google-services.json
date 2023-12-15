@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339882831473",
+    "project_id": "body-improvement-club",
+    "storage_bucket": "body-improvement-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339882831473:android:19cd2068fbbb4a15deb5d0",
+        "android_client_info": {
+          "package_name": "com.BICApp.bic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg6o6TVaTRkUEYHmc1N_65XqkYVbFH6qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
